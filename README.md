@@ -1,4 +1,4 @@
-# OpenClassrooms-FrontEnd-Developer-Diploma-Projects
+# OpenClassrooms Front-End Developer Diploma Projects
 
 ## Project's Repo
 * [Restaurant Review - Single Page Application - ReactJS](https://github.com/paulAlexSerban/ReactJS-Restaurant-Review-App)
