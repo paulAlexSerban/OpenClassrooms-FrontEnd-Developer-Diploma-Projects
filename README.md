@@ -1,5 +1,13 @@
 # OpenClassrooms-FrontEnd-Developer-Diploma-Projects
 
+## Project's Repo
+* [Restaurant Review - Single Page Application - ReactJS](https://github.com/paulAlexSerban/ReactJS-Restaurant-Review-App)
+* [ToDo List App - JasmineJS Testing - JavaScript MVC - Bugfixing](https://github.com/paulAlexSerban/JS-MVC-JasmineJS-Testing--ToDo-List-App)
+* [Board Game - Object Oriented Programming - JavaScript](https://github.com/paulAlexSerban/JS-Cops-and-Robbers-Board-Game)
+* [Quotation Generator - JavaScript](https://github.com/paulAlexSerban/JS-Quotation-Generator)
+* [Food Delivery Solution - UML diagram - SQL database](https://github.com/paulAlexSerban/UML-SQL-Food-Delivery-Solution)
+
+
 ## Propositions
 ### Follow a flexible online program and study at your own pace
 Practice the key skills a Front-End Developer needs to build the interface of a website that a user sees entirely online with the help of a dedicated mentor:
@@ -21,10 +29,3 @@ Practice the key skills a Front-End Developer needs to build the interface of a 
 
 ### Get a diploma in the field
   Once you’ve completed your training path and validated your skills, you’ll be awarded the "Front-End Developer" diploma registered at the [National Directory of Professional Certifications](https://www.francecompetences.fr/recherche/rncp/27099/). This diploma is at Bachelor's-level on the EQF (European Qualifications Framework).
-
-## Project's Repo
-* [Restaurant Review - Single Page Application - ReactJS](https://github.com/paulAlexSerban/ReactJS-Restaurant-Review-App)
-* [ToDo List App - JasmineJS Testing - JavaScript MVC - Bugfixing](https://github.com/paulAlexSerban/JS-MVC-JasmineJS-Testing--ToDo-List-App)
-* [Board Game - Object Oriented Programming - JavaScript](https://github.com/paulAlexSerban/JS-Cops-and-Robbers-Board-Game)
-* [Quotation Generator - JavaScript](https://github.com/paulAlexSerban/JS-Quotation-Generator)
-* [Food Delivery Solution - UML diagram - SQL database](https://github.com/paulAlexSerban/UML-SQL-Food-Delivery-Solution)
