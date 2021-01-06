@@ -6,6 +6,7 @@
 * [Board Game - Object Oriented Programming - JavaScript](https://github.com/paulAlexSerban/JS-Cops-and-Robbers-Board-Game)
 * [Quotation Generator - JavaScript](https://github.com/paulAlexSerban/JS-Quotation-Generator)
 * [Food Delivery Solution - UML diagram - SQL database](https://github.com/paulAlexSerban/UML-SQL-Food-Delivery-Solution)
+* [Boston Film Festival - Bootstrap](https://github.com/paulAlexSerban/CSS-Bootstrap-Boston-Film-Festival)
 
 
 ## Propositions
