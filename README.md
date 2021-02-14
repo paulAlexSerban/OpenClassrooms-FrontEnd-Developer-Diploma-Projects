@@ -1,7 +1,7 @@
 # OpenClassrooms Front-End Developer Diploma Projects
 
 ## Project's Repo
-* [Restaurant Review - Single Page Application - ReactJS](https://github.com/paulAlexSerban/ReactJS-Restaurant-Review-App)
+* Restaurant Review - Single Page Application - ReactJS [Source code](https://github.com/paulAlexSerban/ReactJS-Restaurant-Review-App) -- [Live DEMO](https://restaurant-review-app-react.netlify.app/)
 * [ToDo List App - JasmineJS Testing - JavaScript MVC - Bugfixing](https://github.com/paulAlexSerban/JS-MVC-JasmineJS-Testing--ToDo-List-App)
 * [Board Game - Object Oriented Programming - JavaScript](https://github.com/paulAlexSerban/JS-Cops-and-Robbers-Board-Game)
 * [Quotation Generator - JavaScript](https://github.com/paulAlexSerban/JS-Quotation-Generator)
